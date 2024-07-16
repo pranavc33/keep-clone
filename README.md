@@ -7,6 +7,7 @@
 - **Archive Notes**: Archive notes that you want to keep but not display on the main page.
 - **Delete Notes**: Remove notes that you no longer need.
 - **Drag and Drop**: Reorder notes with a simple drag and drop interface.
+- The project is deployed at: https://pranavc33.github.io/keep-clone/
 
 
 
