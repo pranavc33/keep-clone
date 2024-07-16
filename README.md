@@ -1,5 +1,5 @@
 📝 Google Keep Clone
-Welcome to the Google Keep Clone project! This is a simple note-taking app inspired by Google Keep, built using React and Material-UI. 🗒️
+This is a simple note-taking app inspired by Google Keep, built using React and Material-UI. 🗒️
 
 🚀 Features
 Create Notes: Add new notes with a title and content.
